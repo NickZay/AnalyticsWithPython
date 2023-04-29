@@ -1,2 +1,3 @@
-# PythonLaboratoryWork
-Это моя лабораторка по питону, где мы использовали библиотеку pandas для работы с таблицами.
+# AnalyticsWithPython
+
+`ipynb`s files with usage of `numpy`, `pandas`, `matplotlib` and `pyplot`
